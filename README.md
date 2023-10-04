@@ -1,6 +1,5 @@
 <br/>
 <br/>
-<br/>
 
 <p align="center">
     <img width="250" alt="ICONIC Dash" src="docs/images/iconic-logo.png#gh-light-mode-only">
