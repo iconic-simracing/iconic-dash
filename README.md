@@ -37,8 +37,15 @@ This is only version one. There are several unique features on the roadmap ahead
 3. Download & Install the [**ICONIC Dash Latest Release**](https://github.com/iconic-simracing/iconic-dash/releases)
 4. Setup your [**SimHub Action Triggers**](./docs/actions.md) to control the ICONIC Dash UI
 
-## Compatibility
-ICONIC Dash in only compatible with iRacing for the moment.
+## Compatible Sims
+ICONIC Dash offers native support for many sims, but will work with any simulator that offers native data to SimHub like:
+
+* [Assetto Corsa Competizione](https://assettocorsa.gg/assetto-corsa-competizione/)
+* [Assetto Corsa](https://assettocorsa.gg/assetto-corsa/)
+* [iRacing](https://www.iracing.com)
+* [Automobilista 2](https://www.game-automobilista2.com)
+* [rFactor 2](https://www.studio-397.com/rfactor2/)
+* [Formula 1](https://www.ea.com/en-gb/games/f1/)
 
 ## Disclaimer
 
