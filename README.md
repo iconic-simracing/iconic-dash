@@ -1,12 +1,12 @@
 <br/>
 <br/>
+<br/>
 
 <p align="center">
     <img width="250" alt="ICONIC Dash" src="docs/images/iconic-logo.png#gh-light-mode-only">
     <img width="250" alt="ICONIC Dash" src="docs/images/iconic-logo-dark.png#gh-dark-mode-only">
 </p>
 
-<br/>
 <br/>
 
 <p align="center">
