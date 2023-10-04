@@ -1,12 +1,19 @@
 <br/>
+<br/>
 
 <p align="center">
-    <img width="200" height="60" alt="ICONIC Dash" src="docs/images/iconic-logo.png#gh-light-mode-only">
-    <img width="200" height="60" alt="ICONIC Dash" src="docs/images/iconic-logo-dark.png#gh-dark-mode-only">
+    <img width="250" alt="ICONIC Dash" src="docs/images/iconic-logo.png#gh-light-mode-only">
+    <img width="250" alt="ICONIC Dash" src="docs/images/iconic-logo-dark.png#gh-dark-mode-only">
 </p>
+
+<br/>
+<br/>
+
 <p align="center">
     <img width="880" alt="ICONIC Dash" src="docs/images/iconic-dashboard.png">
 </p>
+
+<br/>
 
 # Introduction
 The philosophy behind it is to build a racing dashboard, focusing only on the important information you need during a race as clearly as possible, ignoring fancy unnecessary things, and at the same time, looking as good as possible. I hope you like it, and I would love to get your feedback! I have a couple of unique features on the roadmap
