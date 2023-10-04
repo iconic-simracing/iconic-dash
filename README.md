@@ -9,15 +9,25 @@
 <br/>
 
 <p align="center">
+    A race-first SimHub dash. Read more.
+</p>
+
+<br/>
+
+<p align="center">
     <img width="880" alt="ICONIC Dash" src="docs/images/iconic-dashboard.png">
 </p>
 
 <br/>
 
 # Introduction
-The philosophy behind it is to build a racing dashboard, focusing only on the important information you need during a race as clearly as possible, ignoring fancy unnecessary things, and at the same time, looking as good as possible. I hope you like it, and I would love to get your feedback! I have a couple of unique features on the roadmap
+ICONIC Dash is a SimHub racing dashboard built with a race-first philosophy. This means every decision regarding what to show, where to show it, or with what size, was taken prioritizing what a driver will need most on the hit of a race. 
 
-[Join our Discord community](https://discord.gg/3WU9YCKqF4)
+As an example of this philosophy, common information in other dashboards was deliberately excluded, like speed, rpm, or throttle and brake inputs. Even some design elements like icons or logos were also excluded from the prime space to allow easy readability of important things during a race, like deltas, lap times, or race progress.
+
+This is only version one. There are several unique features on the roadmap ahead. [Join our Discord community server](https://discord.gg/3WU9YCKqF4) to stay updated with the latest releases and share your feedback and ideas. Let’s build a true iconic dash for the sim racing community together!
+
+
 
 # Getting Started
 ## Download and Install
