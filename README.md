@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-    A race-first SimHub dashboard. Read more.
+    <bold>A race-first SimHub dashboard. [Read more](#introduction).</bold>
 </p>
 
 <br/>
@@ -25,7 +25,7 @@ ICONIC Dash is a SimHub racing dashboard built with a race-first philosophy. Thi
 
 As an example of this philosophy, common information in other dashboards was deliberately excluded, like speed, rpm, or throttle and brake inputs. Even some design elements like icons or logos were also excluded from the prime space to allow easy readability of important things during a race, like deltas, lap times, or race progress.
 
-This is only version one. There are several unique features on the roadmap ahead. [Join our Discord community server](https://discord.gg/3WU9YCKqF4) to stay updated with the latest releases and share your feedback and ideas. Let’s build a true iconic dash together!
+This is only version one. There are several unique features on the roadmap ahead. [Join our Discord community server](https://discord.gg/3WU9YCKqF4) to stay updated with the latest releases and share your feedback and ideas.
 
 
 
