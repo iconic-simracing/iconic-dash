@@ -9,7 +9,7 @@
 <br/>
 
 <p align="center">
-    <bold>A race-first SimHub dashboard. [Read more](#introduction).</bold>
+    <strong>A race-first SimHub dash.</strong> <a href="#introduction">Read more</a>.
 </p>
 
 <br/>
