@@ -37,9 +37,6 @@ This is only version one. There are several unique features on the roadmap ahead
 3. Download & Install the [**ICONIC Dash Latest Release**](https://github.com/iconic-simracing/iconic-dash/releases)
 4. Setup your [**SimHub Action Triggers**](./docs/actions.md) to control the ICONIC Dash UI
 
-> [!NOTE]
-> At the moment, the dashboard was only tested in iRacing. Although it should work with all the other titles, it is expected to have issues. 
-
 ## Compatible Sims
 ICONIC Dash offers native support for many sims, but will work with any simulator that offers native data to SimHub like:
 
@@ -49,6 +46,9 @@ ICONIC Dash offers native support for many sims, but will work with any simulato
 * [Automobilista 2](https://www.game-automobilista2.com)
 * [rFactor 2](https://www.studio-397.com/rfactor2/)
 * [Formula 1](https://www.ea.com/en-gb/games/f1/)
+
+> [!NOTE]
+> At the moment, the dashboard was only tested in iRacing. Although it should work with all the other titles, it is expected to have issues. 
 
 ## Disclaimer
 
